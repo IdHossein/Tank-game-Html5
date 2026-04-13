@@ -23,11 +23,13 @@
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/start-screen.png" alt="Start Screen" width="380"/>
+      <img src="<img width="1280" height="720" alt="577387135-289717f5-438c-4a3a-aceb-650c9558684b" src="https://github.com/user-attachments/assets/4a970b7b-93f2-43a5-bc04-a3f955450921" />
+" width="380"/>
       <br/><em>Start Screen</em>
     </td>
     <td align="center">
-      <img src="screenshots/gameplay.png" alt="Gameplay (Early Level)" width="380"/>
+      <img src="![Uploading 577387315-bceb618d-1e09-4904-8904-1a411b646269.png…]()
+" width="380"/>
       <br/><em>Gameplay — Early Level</em>
     </td>
   </tr>
